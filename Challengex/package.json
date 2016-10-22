@@ -1,0 +1,32 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jquery": "^1.1.2",
+    "gulp-less": "^3.1.0",
+    "gulp-react": "^3.1.0",
+    "gulp-util": "^3.0.7",
+    "history": "^1.17.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-paginate": "^2.2.3",
+    "react-paginate-component": "0.0.3",
+    "react-router": "^2.8.1",
+    "react-router-component": "^0.36.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
